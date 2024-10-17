@@ -1,0 +1,72 @@
+"",division_map,TaskName_map,sum_rank,sum_hours,total_people,task_rank_mean,task_hours_mean,task_value_exp_log,task_value_simple_weight,division_map_new_line
+0,"Computer or digital: Numerical, data, or programming",admin,11.0,35.00,24,0.458333,1.458333,1.131147,0.133681,"Computer or digital:\nNumerical, data, or programming"
+1,"Computer or digital: Numerical, data, or programming",analysing data,46.0,170.00,24,1.916667,7.083333,5.448846,2.715278,"Computer or digital:\nNumerical, data, or programming"
+2,"Computer or digital: Numerical, data, or programming",building rapport,9.0,29.00,24,0.375000,1.208333,0.955622,0.090625,"Computer or digital:\nNumerical, data, or programming"
+3,"Computer or digital: Numerical, data, or programming",communicating,28.0,93.50,24,1.166667,3.895833,2.846388,0.909028,"Computer or digital:\nNumerical, data, or programming"
+4,"Computer or digital: Numerical, data, or programming",computer work,66.0,449.50,24,2.750000,18.729167,11.794427,10.301042,"Computer or digital:\nNumerical, data, or programming"
+5,"Computer or digital: Numerical, data, or programming",creativity,15.0,37.00,24,0.625000,1.541667,1.275014,0.192708,"Computer or digital:\nNumerical, data, or programming"
+6,"Computer or digital: Numerical, data, or programming",decision making,61.0,176.75,24,2.541667,7.364583,7.569579,3.743663,"Computer or digital:\nNumerical, data, or programming"
+7,"Computer or digital: Numerical, data, or programming",getting information,38.0,113.00,24,1.583333,4.708333,3.844558,1.490972,"Computer or digital:\nNumerical, data, or programming"
+8,"Computer or digital: Numerical, data, or programming",judging quality,18.0,98.00,24,0.750000,4.083333,2.365768,0.612500,"Computer or digital:\nNumerical, data, or programming"
+9,"Computer or digital: Numerical, data, or programming",managing,22.0,54.00,24,0.916667,2.250000,1.863968,0.412500,"Computer or digital:\nNumerical, data, or programming"
+10,"Computer or digital: Numerical, data, or programming",manual work,12.0,56.0,24,0.500000,2.333333,1.545932,0.233333,"Computer or digital:\nNumerical, data, or programming"
+11,"Computer or digital: Numerical, data, or programming",planning,34.0,112.0,24,1.416667,4.666667,3.522288,1.322222,"Computer or digital:\nNumerical, data, or programming"
+12,"Computer or office: Administrative, organizational, or planning",admin,14.0,39.0,33,0.424242,1.181818,0.964508,0.100275,"Computer or office:\nAdministrative, organizational, or planning"
+13,"Computer or office: Administrative, organizational, or planning",analysing data,56.0,164.0,33,1.696970,4.969697,4.173909,1.686685,"Computer or office:\nAdministrative, organizational, or planning"
+14,"Computer or office: Administrative, organizational, or planning",building rapport,27.0,78.0,33,0.818182,2.363636,1.826143,0.386777,"Computer or office:\nAdministrative, organizational, or planning"
+15,"Computer or office: Administrative, organizational, or planning",communicating,70.0,235.5,33,2.121212,7.136364,6.054493,3.027548,"Computer or office:\nAdministrative, organizational, or planning"
+16,"Computer or office: Administrative, organizational, or planning",computer work,55.0,402.0,33,1.666667,12.181818,5.933845,4.060606,"Computer or office:\nAdministrative, organizational, or planning"
+17,"Computer or office: Administrative, organizational, or planning",creativity,21.0,41.0,33,0.636364,1.242424,1.110090,0.158127,"Computer or office:\nAdministrative, organizational, or planning"
+18,"Computer or office: Administrative, organizational, or planning",decision making,91.0,201.5,33,2.757576,6.106061,7.785133,3.367585,"Computer or office:\nAdministrative, organizational, or planning"
+19,"Computer or office: Administrative, organizational, or planning",getting information,49.0,194.0,33,1.484848,5.878788,4.051701,1.745822,"Computer or office:\nAdministrative, organizational, or planning"
+20,"Computer or office: Administrative, organizational, or planning",judging quality,11.0,50.0,33,0.333333,1.515152,1.089608,0.101010,"Computer or office:\nAdministrative, organizational, or planning"
+21,"Computer or office: Administrative, organizational, or planning",managing,27.0,112.5,33,0.818182,3.409091,2.233587,0.557851,"Computer or office:\nAdministrative, organizational, or planning"
+22,"Computer or office: Administrative, organizational, or planning",manual work,1.0,1.0,33,0.030303,0.030303,0.030309,0.000184,"Computer or office:\nAdministrative, organizational, or planning"
+23,"Computer or office: Administrative, organizational, or planning",planning,73.0,208.0,33,2.212121,6.303030,6.009462,2.788613,"Computer or office:\nAdministrative, organizational, or planning"
+24,"Computer or office: Customer service, marketing, or HR",admin,3.0,35.0,20,0.150000,1.750000,1.090389,0.052500,"Computer or office:\nCustomer service, marketing, or HR"
+25,"Computer or office: Customer service, marketing, or HR",analysing data,26.0,75.0,20,1.300000,3.750000,2.984690,0.975000,"Computer or office:\nCustomer service, marketing, or HR"
+26,"Computer or office: Customer service, marketing, or HR",building rapport,29.0,87.0,20,1.450000,4.350000,3.462753,1.261500,"Computer or office:\nCustomer service, marketing, or HR"
+27,"Computer or office: Customer service, marketing, or HR",communicating,51.0,219.0,20,2.550000,10.950000,8.877797,5.584500,"Computer or office:\nCustomer service, marketing, or HR"
+28,"Computer or office: Customer service, marketing, or HR",computer work,36.0,320.0,20,1.800000,16.000000,6.968580,5.760000,"Computer or office:\nCustomer service, marketing, or HR"
+29,"Computer or office: Customer service, marketing, or HR",creativity,24.0,51.0,20,1.200000,2.550000,2.308529,0.612000,"Computer or office:\nCustomer service, marketing, or HR"
+30,"Computer or office: Customer service, marketing, or HR",decision making,37.0,135.0,20,1.850000,6.750000,5.164012,2.497500,"Computer or office:\nCustomer service, marketing, or HR"
+31,"Computer or office: Customer service, marketing, or HR",getting information,32.0,116.0,20,1.600000,5.800000,4.266190,1.856000,"Computer or office:\nCustomer service, marketing, or HR"
+32,"Computer or office: Customer service, marketing, or HR",judging quality,27.0,79.0,20,1.350000,3.950000,3.141250,1.066500,"Computer or office:\nCustomer service, marketing, or HR"
+33,"Computer or office: Customer service, marketing, or HR",managing,4.0,13.0,20,0.200000,0.650000,0.553442,0.026000,"Computer or office:\nCustomer service, marketing, or HR"
+34,"Computer or office: Customer service, marketing, or HR",planning,31.0,108.0,20,1.550000,5.400000,4.029266,1.674000,"Computer or office:\nCustomer service, marketing, or HR"
+35,"Face to Face: Hospitality, sales, or client care",admin,9.0,50.5,23,0.391304,2.195652,1.412859,0.171834,"Face to Face:\nHospitality, sales, or client care"
+36,"Face to Face: Hospitality, sales, or client care",analysing data,9.0,38.0,23,0.391304,1.652174,1.186163,0.129301,"Face to Face:\nHospitality, sales, or client care"
+37,"Face to Face: Hospitality, sales, or client care",building rapport,39.0,108.0,23,1.695652,4.695652,4.061452,1.592439,"Face to Face:\nHospitality, sales, or client care"
+38,"Face to Face: Hospitality, sales, or client care",communicating,54.0,204.0,23,2.347826,8.869565,7.405531,4.164839,"Face to Face:\nHospitality, sales, or client care"
+39,"Face to Face: Hospitality, sales, or client care",computer work,26.0,103.0,23,1.130435,4.478261,2.993098,1.012476,"Face to Face:\nHospitality, sales, or client care"
+40,"Face to Face: Hospitality, sales, or client care",creativity,10.0,44.0,23,0.434783,1.913043,1.328832,0.166352,"Face to Face:\nHospitality, sales, or client care"
+41,"Face to Face: Hospitality, sales, or client care",decision making,50.0,152.0,23,2.173913,6.608696,6.017328,2.873346,"Face to Face:\nHospitality, sales, or client care"
+42,"Face to Face: Hospitality, sales, or client care",getting information,24.0,26.0,23,1.043478,1.130435,1.274376,0.235917,"Face to Face:\nHospitality, sales, or client care"
+43,"Face to Face: Hospitality, sales, or client care",judging quality,13.0,35.0,23,0.565217,1.521739,1.227024,0.172023,"Face to Face:\nHospitality, sales, or client care"
+44,"Face to Face: Hospitality, sales, or client care",managing,25.0,81.5,23,1.086957,3.543478,2.606558,0.770321,"Face to Face:\nHospitality, sales, or client care"
+45,"Face to Face: Hospitality, sales, or client care",manual work,22.0,104.0,23,0.956522,4.521739,2.756577,0.865028,"Face to Face:\nHospitality, sales, or client care"
+46,"Face to Face: Hospitality, sales, or client care",planning,50.0,109.0,23,2.173913,4.739130,5.181179,2.060491,"Face to Face:\nHospitality, sales, or client care"
+47,"Manual and physical: Manufacture, maintenance, or repair",admin,18.0,108.0,20,0.900000,5.400000,2.911255,0.972000,"Manual and physical:\nManufacture, maintenance, or repair"
+48,"Manual and physical: Manufacture, maintenance, or repair",analysing data,6.0,28.0,20,0.300000,1.400000,1.017150,0.084000,"Manual and physical:\nManufacture, maintenance, or repair"
+49,"Manual and physical: Manufacture, maintenance, or repair",building rapport,5.0,24.0,20,0.250000,1.200000,0.893439,0.060000,"Manual and physical:\nManufacture, maintenance, or repair"
+50,"Manual and physical: Manufacture, maintenance, or repair",communicating,18.0,54.0,20,0.90,2.70,2.051874,0.4860,"Manual and physical:\nManufacture, maintenance, or repair"
+51,"Manual and physical: Manufacture, maintenance, or repair",computer work,25.0,104.0,20,1.25,5.20,3.408707,1.3000,"Manual and physical:\nManufacture, maintenance, or repair"
+52,"Manual and physical: Manufacture, maintenance, or repair",creativity,2.0,4.0,20,0.10,0.20,0.191669,0.0040,"Manual and physical:\nManufacture, maintenance, or repair"
+53,"Manual and physical: Manufacture, maintenance, or repair",decision making,43.0,179.0,20,2.15,8.95,6.731871,3.8485,"Manual and physical:\nManufacture, maintenance, or repair"
+54,"Manual and physical: Manufacture, maintenance, or repair",getting information,9.0,28.0,20,0.45,1.40,1.096369,0.1260,"Manual and physical:\nManufacture, maintenance, or repair"
+55,"Manual and physical: Manufacture, maintenance, or repair",judging quality,46.0,159.0,20,2.30,7.95,6.921665,3.6570,"Manual and physical:\nManufacture, maintenance, or repair"
+56,"Manual and physical: Manufacture, maintenance, or repair",managing,18.0,44.0,20,0.90,2.20,1.824184,0.3960,"Manual and physical:\nManufacture, maintenance, or repair"
+57,"Manual and physical: Manufacture, maintenance, or repair",manual work,73.0,449.0,20,3.65,22.45,19.569015,16.3885,"Manual and physical:\nManufacture, maintenance, or repair"
+58,"Manual and physical: Manufacture, maintenance, or repair",planning,33.0,70.0,20,1.65,3.50,3.432125,1.1550,"Manual and physical:\nManufacture, maintenance, or repair"
+59,Manual and physical: Warehouse or logistics,admin,7.0,18.0,20,0.35,0.90,0.764606,0.0630,Manual and physical:\nWarehouse or logistics
+60,Manual and physical: Warehouse or logistics,analysing data,6.0,65.0,20,0.30,3.25,1.681080,0.1950,Manual and physical:\nWarehouse or logistics
+61,Manual and physical: Warehouse or logistics,building rapport,11.0,47.0,20,0.55,2.35,1.591633,0.2585,Manual and physical:\nWarehouse or logistics
+62,Manual and physical: Warehouse or logistics,communicating,61.0,298.0,20,3.05,14.90,12.711633,9.0890,Manual and physical:\nWarehouse or logistics
+63,Manual and physical: Warehouse or logistics,computer work,10.0,87.0,20,0.50,4.35,2.153435,0.4350,Manual and physical:\nWarehouse or logistics
+64,Manual and physical: Warehouse or logistics,creativity,6.0,10.0,20,0.30,0.50,0.471083,0.0300,Manual and physical:\nWarehouse or logistics
+65,Manual and physical: Warehouse or logistics,decision making,42.0,154.0,20,2.10,7.70,6.182022,3.2340,Manual and physical:\nWarehouse or logistics
+66,Manual and physical: Warehouse or logistics,getting information,25.0,113.0,20,1.25,5.65,3.539610,1.4125,Manual and physical:\nWarehouse or logistics
+67,Manual and physical: Warehouse or logistics,judging quality,12.0,116.0,20,0.60,5.80,2.587575,0.6960,Manual and physical:\nWarehouse or logistics
+68,Manual and physical: Warehouse or logistics,managing,16.0,58.0,20,0.80,2.90,2.030338,0.4640,Manual and physical:\nWarehouse or logistics
+69,Manual and physical: Warehouse or logistics,manual work,46.0,300.0,20,2.30,15.00,8.756370,6.9000,Manual and physical:\nWarehouse or logistics
+70,Manual and physical: Warehouse or logistics,planning,50.0,150.0,20,2.5,7.5,7.469565,3.75,Manual and physical:\nWarehouse or logistics
